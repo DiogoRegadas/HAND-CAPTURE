@@ -26,7 +26,7 @@ A simple but effective demonstration of gesture-based interaction and computer v
 
 - **Python**  
 - **OpenCV** – camera capture + hand detection  
-- **Mediapipe Hands** (or custom landmarks, depending on your code)  
+- **Mediapipe Hands** 
 - **Numpy** – mathematical calculations  
 - **System volume control library**  
   (e.g., `pycaw` on Windows or equivalent for your OS)
